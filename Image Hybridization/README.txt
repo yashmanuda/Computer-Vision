@@ -1,0 +1,1 @@
+Lab_1.m contains the function call. You need to put path there. 
