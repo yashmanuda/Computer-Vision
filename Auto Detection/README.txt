@@ -3,7 +3,7 @@ Yash Ubale
 Lab 4
 ==================================================================
 
-Before running the code, kindle copy the 'auto_det_chal_train_7oct' folder inside the folder which contains 'Train_2014CSB1040.m', 'Test_2014CSB1040.m' and 'JSON.m' files. 
+Before running the code, kindly copy the 'auto_det_chal_train_7oct' folder inside the folder which contains 'Train_2014CSB1040.m', 'Test_2014CSB1040.m' and 'JSON.m' files. 
 
 'Train_2014CSB1040.m' needs input as the path of the 'auto_det_chal_train_7oct' folder
 Ex. 'E:\Academics\7th Semester\Computer Vision\Lab 4\auto_det_chal_train_7oct\'
